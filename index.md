@@ -1,37 +1,14 @@
-##                                Witam na moim blogu!
+## Witam na moim blogu!
 
-You can use the [editor on GitHub](https://github.com/krolbieckii/krolbieckii.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Parę informacji o mnie
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hej mam na imię Karol, w tym roku kończę 21 lat! Skończyłem technikum informatyczne w Kościerzynie, a teraz jestem świeżo upieczonym studentem informatyki na Uniwersytecie Gdańskim. Mam nadzieję, że podołam wyzwaniu jakim jest zdobycie tytułu conajmniej licenjonowanego Informatyka. Studiuję zaocznie, ponieważ na codzień pracuję. Często ciężko mi jest połączyć prace, studia oraz życie towarzyskie, ALE SIĘ STARAM!!!
 
-### Markdown
+## Moje zainteresowania
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mimo tego że nie mam ich wiele to mogę wymienić między innymi:
+- Filmy (interesuję się głownie gatunkami fantazy i science fiction)
+- Gotowanie (coraz bardziej próbuje usamodzielnić się w tej dziedzinie oraz testuje nowe smaki)
+- Siłownia (może sylwetką nie dorównuje Adonisowi, ale sprawia mi to wielką przyjeność)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krolbieckii/krolbieckii.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Myślę, że znalazło by się ich jeszcze więcej może mam zainteresowania, z których nawet nie zdaje sobie sprawy, a to jest dopiero zalążek góry lodowej (miejmy nadzieję...).
