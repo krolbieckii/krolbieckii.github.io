@@ -12,3 +12,8 @@ Mimo tego że nie mam ich wiele to mogę wymienić między innymi:
 - Siłownia (może sylwetką nie dorównuje Adonisowi, ale sprawia mi to wielką przyjeność)
 
 Myślę, że znalazło by się ich jeszcze więcej może mam zainteresowania, z których nawet nie zdaje sobie sprawy, a to jest dopiero zalążek góry lodowej (miejmy nadzieję...).
+
+## Jak lubie spędzac wolny czas?
+
+Moim ulubionym sposobem spędzania wolnego czasu są wszelakiego rodzaju wypady ze znajomymi, NIENAWIDZĘ przesiadywać w domu w weekendy. Na takich wypadach często jeździmy na kręgle, billard, etc.
+
